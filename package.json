@@ -1,0 +1,26 @@
+{
+  "name": "api-docs",
+  "version": "0.0.0",
+  "description": "Journal One API Dokumentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JournalOne/api-docs.git"
+  },
+  "keywords": [
+    "Journal",
+    "One",
+    "API",
+    "Docs",
+    "Dokumentation"
+  ],
+  "author": "Thomas Schorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JournalOne/api-docs/issues"
+  },
+  "homepage": "https://github.com/JournalOne/api-docs#readme"
+}
