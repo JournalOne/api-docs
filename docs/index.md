@@ -11,7 +11,7 @@ In der folgenden Dokumentation wird deine einfachere, nicht valide JavaScript No
 
 Authentifizierung erfolgt per Query-Parameter `apikey`.
 
-** Beispiel **
+**Beispiel**
 
     https://api.getjournal.one/website/list?apikey=insert_valid_api_key
 
@@ -21,6 +21,6 @@ Authentifizierung erfolgt per Query-Parameter `apikey`.
 * [/website](endpoints/website.md)
 
 
-## schema
+## Schema
 
 * [website](schema/website.md)

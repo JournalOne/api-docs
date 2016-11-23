@@ -2,11 +2,11 @@
 
 ## Methode `GET /website/list`
 
-** Request **
+**Request**
 
     GET /website/list
 
-** Response **
+**Response**
 
     {
       websites: [
