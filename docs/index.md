@@ -23,4 +23,4 @@ Authentifizierung erfolgt per Query-Parameter `apikey`.
 
 ## schema
 
-* [website](schema/website)
+* [website](schema/website.md)

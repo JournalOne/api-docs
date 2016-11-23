@@ -14,4 +14,4 @@
       ]
     }
 
-* [object: website](../schema/website)
+* [object: website](../schema/website.md)
